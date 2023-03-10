@@ -1,0 +1,23 @@
+{
+  "name": "projeto1-reprograma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisAnDias/projeto1-reprograma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisAnDias/projeto1-reprograma/issues"
+  },
+  "homepage": "https://github.com/ChrisAnDias/projeto1-reprograma#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
