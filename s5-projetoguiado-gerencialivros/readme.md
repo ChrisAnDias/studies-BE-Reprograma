@@ -69,10 +69,10 @@ Se você quiser ter essa APi na sua máquina, será necessário:
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/ChrisAnDias/Mochidicas-Reprograma-ProjetoFinal.git
+$ git clone https://github.com/ChrisAnDias/Curso-Dev-BackEnd-Reprograma.git
 
 # Entrar na pasta do repositório
-$ cd Mochidicas-Reprograma-ProjetoFinal
+$ cd s5-projetoguiado-gerencialivros
 
 # Instalar as dependências
 $ npm install
